@@ -1,0 +1,84 @@
+id,name,ecology,size,pitfall_trap,shock_trap
+1,Felyne,,small,,
+2,Melynx,,small,,
+3,Shakalaka,,small,,
+4,Vespoid,,small,,
+5,Hornetaur,,small,,
+6,Great Thunderbug,,small,,
+7,Anteka,,small,,
+8,Popo,,small,,
+9,Kelbi,,small,,
+10,Mosswine,,small,,
+11,Aptonoth,,small,,
+12,Apceros,,small,,
+13,Giaprey,,small,,
+14,Velociprey,,small,,
+15,Genprey,,small,,
+16,Ioprey,,small,,
+17,Remobra,,small,,
+18,Cephalos,,small,,
+19,Hermitaur,,small,,
+20,Ceanataur,,small,,
+21,Bulfango,,small,,
+22,Conga,,small,,
+23,Blango,,small,,
+24,King Shakalaka,Lynian,large,FALSE,FALSE
+25,Vespoid Queen,Neopteron,large,FALSE,FALSE
+26,Giadrome,Bird Wyvren,large,TRUE,TRUE
+27,Velocidrome,Bird Wyvren,large,TRUE,TRUE
+28,Gendrome,Bird Wyvren,large,TRUE,TRUE
+29,Iodrome,Bird Wyvren,large,TRUE,TRUE
+30,Yian Kut-Ku,Bird Wyvren,large,TRUE,TRUE
+31,Blue Yian Kut-Ku,Bird Wyvren,large,TRUE,TRUE
+32,Yian Garuga,Bird Wyvren,large,TRUE,TRUE
+33,Scarred Yian Garuga,Bird Wyvren,large,TRUE,TRUE
+34,Gypceros,Bird Wyvren,large,TRUE,TRUE
+35,Purple Gypceros,Bird Wyvren,large,TRUE,TRUE
+36,Hypnocatrice,Bird Wyvren,large,TRUE,TRUE
+37,Rathian,Flying Wyvern,large,TRUE,TRUE
+38,Pink Rathian,Flying Wyvern,large,TRUE,TRUE
+39,Gold Rathian,Flying Wyvern,large,TRUE,TRUE
+40,Rathalos,Flying Wyvern,large,TRUE,TRUE
+41,Azure Rathalos,Flying Wyvern,large,TRUE,TRUE
+42,Silver Rathalos,Flying Wyvern,large,TRUE,TRUE
+43,Kezu,Flying Wyvern,large,TRUE,TRUE
+44,Red Kezu,Flying Wyvern,large,TRUE,TRUE
+45,Basarios,Flying Wyvern,large,TRUE,TRUE
+46,Gravios,Flying Wyvern,large,TRUE,TRUE
+47,Black Gravios,Flying Wyvern,large,TRUE,TRUE
+48,Monoblos,Flying Wyvern,large,TRUE,TRUE
+49,White Monoblos,Flying Wyvern,large,TRUE,TRUE
+50,Diablos ,Flying Wyvern,large,TRUE,TRUE
+51,Black Diablos,Flying Wyvern,large,TRUE,TRUE
+52,Tigrex,Flying Wyvern,large,TRUE,TRUE
+53,Nargacuga,Flying Wyvern,large,TRUE,TRUE
+54,Akantor,Flying Wyvern,large,TRUE,TRUE
+55,Ukanlos ,Flying Wyvern,large,TRUE,TRUE
+56,Cephadrome,Piscine Wyvern,large,TRUE,TRUE
+57,Plesioth,Piscine Wyvern,large,TRUE,TRUE
+58,Green Plesioth ,Piscine Wyvern,large,TRUE,TRUE
+59,Lavasioth,Piscine Wyvern,large,TRUE,TRUE
+60,Diamyo Hermitaur,Carapaceon,large,TRUE,TRUE
+61,Plum Daimyo Hermitaur ,Carapaceon,large,TRUE,TRUE
+62,Shogun Ceanataur,Carapaceon,large,TRUE,TRUE
+63,Terra Shogun Ceanataur,Carapaceon,large,TRUE,TRUE
+64,Shen Gaoren ,Carapaceon,large,FALSE,FALSE
+65,Bulldrome ,Fanged Beast,large,TRUE,TRUE
+66,Congalala ,Fanged Beast,large,TRUE,TRUE
+67,Emerald Congalala,Fanged Beast,large,TRUE,TRUE
+68,Blangonga,Fanged Beast,large,TRUE,TRUE
+69,Copper Blangonga ,Fanged Beast,large,TRUE,TRUE
+70,Rajang,Fanged Beast,large,TRUE,TRUE
+71,Furious Rajang,Fanged Beast,large,TRUE,TRUE
+72,Kirin ,Elder Dragon,large,FALSE,FALSE
+73,Kushala Daroa ,Elder Dragon,large,FALSE,FALSE
+74,Rusted Kushala Daroa ,Elder Dragon,large,FALSE,FALSE
+75,Chameleos ,Elder Dragon,large,FALSE,FALSE
+76,Lunastra ,Elder Dragon,large,FALSE,FALSE
+77,Teostra ,Elder Dragon,large,FALSE,FALSE
+78,Lao-Shan Lung,Elder Dragon,large,FALSE,FALSE
+79,Ashen Lao-Shan Lung,Elder Dragon,large,FALSE,FALSE
+80,Yama Tsukami ,Elder Dragon,large,FALSE,FALSE
+81,Fatalis ,Elder Dragon,large,FALSE,FALSE
+82,Crimson Fatalis ,Elder Dragon,large,FALSE,FALSE
+83,White Fatalis ,Elder Dragon,large,TRUE,TRUE
